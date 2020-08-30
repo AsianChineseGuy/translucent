@@ -26,7 +26,7 @@ Pause::Send ^!{x}
 
 
 ; Hotstrings
-; Usage tab after typing pablo
+; Usage = tab after typing pablo
 ::pablo::Pablo Escobar is a Colombian drug lord
 
 

@@ -1,4 +1,4 @@
- 1   Autohotkey script for multi monitor setup for my own personal use.
+ 1   Autohotkey script for multi monitor setup for my own personal use.  
    1
    2 Quick launch firefox:
    3 winkey + w
